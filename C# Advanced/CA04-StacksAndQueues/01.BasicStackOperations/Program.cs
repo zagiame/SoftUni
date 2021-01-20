@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace _01.BasicStackOperations
@@ -13,8 +14,34 @@ namespace _01.BasicStackOperations
             int s = input[1];
             int x = input[2];
 
+            // calculation
+            int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            var collection = new Stack<int>(numbers);
+
+            for (int i = 0; i < s; i++)
+            {
+                if (collection.Any() == true)
+                {
+                    collection.Pop();
+                }
+            }
+
             // output
-            Console.WriteLine("Hello World!");
+
+            if (collection.Contains(x) == true)
+            {
+                Console.WriteLine("true");
+            }
+
+            else if (collection.Any() == true)
+            {
+                Console.WriteLine(collection.Min());
+            }
+
+            else
+            {
+                Console.WriteLine(0);
+            }
         }
     }
 }

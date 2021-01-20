@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\bin\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\02.BasicQueueOperations\obj\Debug\netcoreapp3.1\02.BasicQueueOperations.genruntimeconfig.cache

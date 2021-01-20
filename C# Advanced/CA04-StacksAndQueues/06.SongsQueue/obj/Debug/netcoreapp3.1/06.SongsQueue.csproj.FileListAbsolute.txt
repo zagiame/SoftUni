@@ -1,0 +1,12 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.genruntimeconfig.cache
