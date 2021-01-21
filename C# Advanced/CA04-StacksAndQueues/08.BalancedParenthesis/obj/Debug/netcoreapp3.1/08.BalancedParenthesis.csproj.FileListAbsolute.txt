@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\bin\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\08.BalancedParenthesis\obj\Debug\netcoreapp3.1\08.BalancedParenthesis.genruntimeconfig.cache
