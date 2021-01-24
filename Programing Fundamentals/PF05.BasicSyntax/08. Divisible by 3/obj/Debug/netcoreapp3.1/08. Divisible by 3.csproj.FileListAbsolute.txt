@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.exe
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.deps.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.genruntimeconfig.cache

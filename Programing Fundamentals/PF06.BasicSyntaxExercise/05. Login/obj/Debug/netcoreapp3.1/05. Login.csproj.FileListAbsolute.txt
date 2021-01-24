@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

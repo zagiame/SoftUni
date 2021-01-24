@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.exe
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.deps.json
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.runtimeconfig.json
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.dll
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\bin\Debug\netcoreapp3.1\03.MagicCards.pdb
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.dll
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.pdb
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\03.MagicCards\obj\Debug\netcoreapp3.1\03.MagicCards.genruntimeconfig.cache

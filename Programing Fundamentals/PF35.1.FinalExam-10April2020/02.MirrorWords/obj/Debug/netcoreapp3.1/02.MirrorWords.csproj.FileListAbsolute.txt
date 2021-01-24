@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.exe
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.deps.json
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.dll
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\bin\Debug\netcoreapp3.1\02.MirrorWords.pdb
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.dll
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.pdb
+C:\Users\vlade\source\repos\PF35.1-FinalExam-10April2020\02.MirrorWords\obj\Debug\netcoreapp3.1\02.MirrorWords.genruntimeconfig.cache

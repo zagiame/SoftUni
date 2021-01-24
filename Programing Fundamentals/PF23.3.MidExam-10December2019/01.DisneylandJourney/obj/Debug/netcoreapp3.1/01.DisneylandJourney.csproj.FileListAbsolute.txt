@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.exe
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.deps.json
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.dll
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.pdb
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.dll
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.pdb
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.genruntimeconfig.cache

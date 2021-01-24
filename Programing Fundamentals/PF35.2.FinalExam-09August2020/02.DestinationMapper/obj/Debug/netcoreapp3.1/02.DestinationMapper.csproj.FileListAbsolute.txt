@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.exe
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.deps.json
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.dll
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\bin\Debug\netcoreapp3.1\02.DestinationMapper.pdb
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.dll
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.pdb
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\02.DestinationMapper\obj\Debug\netcoreapp3.1\02.DestinationMapper.genruntimeconfig.cache

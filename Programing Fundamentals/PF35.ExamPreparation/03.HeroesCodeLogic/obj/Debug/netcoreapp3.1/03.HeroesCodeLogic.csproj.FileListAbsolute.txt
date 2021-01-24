@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\bin\Debug\netcoreapp3.1\03.HeroesCodeLogic.exe
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\bin\Debug\netcoreapp3.1\03.HeroesCodeLogic.deps.json
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\bin\Debug\netcoreapp3.1\03.HeroesCodeLogic.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\bin\Debug\netcoreapp3.1\03.HeroesCodeLogic.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\bin\Debug\netcoreapp3.1\03.HeroesCodeLogic.dll
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\bin\Debug\netcoreapp3.1\03.HeroesCodeLogic.pdb
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.dll
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.pdb
+C:\Users\vlade\source\repos\PF35-ExamPreparation\03.HeroesCodeLogic\obj\Debug\netcoreapp3.1\03.HeroesCodeLogic.genruntimeconfig.cache

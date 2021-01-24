@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\bin\Debug\netcoreapp3.1\02.MuOnline.exe
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\bin\Debug\netcoreapp3.1\02.MuOnline.deps.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\bin\Debug\netcoreapp3.1\02.MuOnline.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\bin\Debug\netcoreapp3.1\02.MuOnline.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\bin\Debug\netcoreapp3.1\02.MuOnline.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\bin\Debug\netcoreapp3.1\02.MuOnline.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.MuOnline\obj\Debug\netcoreapp3.1\02.MuOnline.genruntimeconfig.cache

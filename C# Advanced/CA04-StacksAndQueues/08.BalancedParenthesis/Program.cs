@@ -15,30 +15,33 @@ namespace _08.BalancedParenthesis
             var brackets = new Stack<char>();
             bool isValid = false;
 
-            foreach (char item in input)
+            if (brackets.Count() % 2 == 0)
             {
-                if (item == '(' || item == '{' || item == '[')
+                foreach (char item in input)
                 {
-                    brackets.Push(item);
-                }
-
-                else
-                {
-                    if (brackets.Any() == true)
+                    if (item == '(' || item == '{' || item == '[')
                     {
-                        bool isFirstValid = item == ')' && brackets.Pop() == '(';
-                        bool isSecondValid = item == '}' && brackets.Pop() == '{';
-                        bool isThirdValid = item == ']' && brackets.Pop() == '[';
+                        brackets.Push(item);
+                    }
 
-                        if (isFirstValid == false && isSecondValid == false && isThirdValid == false)
+                    else
+                    {
+                        if (brackets.Any() == true)
                         {
-                            isValid = false;
-                            break;
-                        }
+                            bool isFirstValid = item == ')' && brackets.Pop() == '(';
+                            bool isSecondValid = item == '}' && brackets.Pop() == '{';
+                            bool isThirdValid = item == ']' && brackets.Pop() == '[';
 
-                        else
-                        {
-                            isValid = true;
+                            if (isFirstValid == false && isSecondValid == false && isThirdValid == false)
+                            {
+                                isValid = false;
+                                break;
+                            }
+
+                            else
+                            {
+                                isValid = true;
+                            }
                         }
                     }
                 }

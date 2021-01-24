@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.genruntimeconfig.cache

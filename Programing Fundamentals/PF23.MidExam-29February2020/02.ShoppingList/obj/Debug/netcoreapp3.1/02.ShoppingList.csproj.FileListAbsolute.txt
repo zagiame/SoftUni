@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.exe
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.deps.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.genruntimeconfig.cache

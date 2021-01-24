@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.exe
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.deps.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.exe
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.deps.json
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.dll
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.pdb
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.dll
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.pdb
+C:\Users\vlade\source\repos\PF23.2 - Mid Exam - 12 August 2020\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.genruntimeconfig.cache

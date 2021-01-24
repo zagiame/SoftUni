@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.exe
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.deps.json
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.dll
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.pdb
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.dll
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.pdb
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.genruntimeconfig.cache

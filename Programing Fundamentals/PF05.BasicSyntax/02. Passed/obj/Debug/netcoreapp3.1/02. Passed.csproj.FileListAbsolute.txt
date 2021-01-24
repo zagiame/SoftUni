@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.exe
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.deps.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.exe
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.deps.json
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+C:\Users\vlade\source\repos\PF35-ExamPreparation\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.genruntimeconfig.cache

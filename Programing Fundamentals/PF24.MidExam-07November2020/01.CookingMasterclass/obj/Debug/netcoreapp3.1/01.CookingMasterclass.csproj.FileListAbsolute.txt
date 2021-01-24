@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\bin\Debug\netcoreapp3.1\01.CookingMasterclass.exe
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\bin\Debug\netcoreapp3.1\01.CookingMasterclass.deps.json
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\bin\Debug\netcoreapp3.1\01.CookingMasterclass.runtimeconfig.json
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\bin\Debug\netcoreapp3.1\01.CookingMasterclass.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\bin\Debug\netcoreapp3.1\01.CookingMasterclass.dll
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\bin\Debug\netcoreapp3.1\01.CookingMasterclass.pdb
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.dll
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.pdb
+C:\Users\vlade\source\repos\PF 24 - Mid Exam - 07 November 2020\01.CookingMasterclass\obj\Debug\netcoreapp3.1\01.CookingMasterclass.genruntimeconfig.cache

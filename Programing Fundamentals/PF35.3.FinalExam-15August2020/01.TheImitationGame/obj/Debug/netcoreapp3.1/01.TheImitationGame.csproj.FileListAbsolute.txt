@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.exe
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.deps.json
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.dll
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\bin\Debug\netcoreapp3.1\01.TheImitationGame.pdb
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.dll
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.pdb
+C:\Users\vlade\source\repos\PF35.3-FinalExam-15August2020\01.TheImitationGame\obj\Debug\netcoreapp3.1\01.TheImitationGame.genruntimeconfig.cache

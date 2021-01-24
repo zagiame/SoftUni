@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.exe
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.deps.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 29 February 2020\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.genruntimeconfig.cache

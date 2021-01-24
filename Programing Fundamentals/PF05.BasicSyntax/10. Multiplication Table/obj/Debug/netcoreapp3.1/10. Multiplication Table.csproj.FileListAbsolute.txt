@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\vlade\source\repos\PF - 05. Basic Syntax\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

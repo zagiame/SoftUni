@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.exe
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.deps.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.dll
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+C:\Users\vlade\source\repos\PF23 - Mid Exam - 05 July 2020\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.genruntimeconfig.cache

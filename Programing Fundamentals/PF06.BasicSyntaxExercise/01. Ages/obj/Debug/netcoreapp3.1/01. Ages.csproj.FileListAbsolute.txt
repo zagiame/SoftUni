@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

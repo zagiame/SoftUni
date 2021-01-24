@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.exe
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.deps.json
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.json
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.dll
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.pdb
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.dll
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.pdb
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.exe
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.deps.json
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.runtimeconfig.json
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.dll
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.pdb
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.dll
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.pdb
+C:\Users\vlade\source\repos\PF22 - Mid Exam Retake - 07 April 2020\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.genruntimeconfig.cache

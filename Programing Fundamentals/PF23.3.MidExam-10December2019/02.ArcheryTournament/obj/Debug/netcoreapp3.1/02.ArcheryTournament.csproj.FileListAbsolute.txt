@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.exe
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.deps.json
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.runtimeconfig.json
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.dll
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.pdb
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.dll
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.pdb
+C:\Users\vlade\source\repos\PF23.3 - Mid Exam - 10 December 2019\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.genruntimeconfig.cache

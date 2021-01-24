@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\vlade\source\repos\PF - 06. Basic Syntax Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

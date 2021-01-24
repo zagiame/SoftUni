@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.exe
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.deps.json
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.json
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.dll
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.pdb
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfo.cs
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.dll
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.pdb
+C:\Users\vlade\source\repos\PF35.2-FinalExam-09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.genruntimeconfig.cache
