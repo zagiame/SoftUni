@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\bin\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04-StacksAndQueues\09.SimpleTextEditor\obj\Debug\netcoreapp3.1\09.SimpleTextEditor.genruntimeconfig.cache
