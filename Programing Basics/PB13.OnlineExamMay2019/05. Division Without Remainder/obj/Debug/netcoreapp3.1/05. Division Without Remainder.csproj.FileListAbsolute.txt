@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.exe
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.deps.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.runtimeconfig.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.AssemblyInfo.cs
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.genruntimeconfig.cache

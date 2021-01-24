@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.AssemblyInfo.cs
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\netcoreapp3.1\02. Safari.exe
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\netcoreapp3.1\02. Safari.deps.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\netcoreapp3.1\02. Safari.runtimeconfig.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\netcoreapp3.1\02. Safari.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\netcoreapp3.1\02. Safari.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\bin\Debug\netcoreapp3.1\02. Safari.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\02. Safari\obj\Debug\netcoreapp3.1\02. Safari.genruntimeconfig.cache

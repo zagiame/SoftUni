@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\bin\Debug\netcoreapp3.1\01. Food Delivery.exe
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\bin\Debug\netcoreapp3.1\01. Food Delivery.deps.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\bin\Debug\netcoreapp3.1\01. Food Delivery.runtimeconfig.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\bin\Debug\netcoreapp3.1\01. Food Delivery.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\bin\Debug\netcoreapp3.1\01. Food Delivery.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\bin\Debug\netcoreapp3.1\01. Food Delivery.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.AssemblyInfo.cs
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\01. Food Delivery\obj\Debug\netcoreapp3.1\01. Food Delivery.genruntimeconfig.cache

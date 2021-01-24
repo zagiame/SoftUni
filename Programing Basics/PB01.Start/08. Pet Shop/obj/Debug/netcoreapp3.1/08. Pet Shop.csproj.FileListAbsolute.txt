@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache

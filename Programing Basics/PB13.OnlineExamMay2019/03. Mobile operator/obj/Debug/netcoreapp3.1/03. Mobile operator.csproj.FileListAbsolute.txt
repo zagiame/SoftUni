@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.exe
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.deps.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.runtimeconfig.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.AssemblyInfo.cs
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.genruntimeconfig.cache

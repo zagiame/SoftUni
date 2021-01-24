@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.exe
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.deps.json
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.json
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.dll
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\bin\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.AssemblyInfo.cs
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.dll
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.pdb
+C:\Users\vlade\source\repos\12. Nested Loops - Exercise\04. Train The Trainers\obj\Debug\netcoreapp3.1\04. Train The Trainers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.exe
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.deps.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\bin\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\04. Inches to Centimeters\obj\Debug\netcoreapp3.1\04. Inches to Centimeters.genruntimeconfig.cache

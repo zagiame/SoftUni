@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfo.cs
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.exe
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.deps.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\Users\vlade\source\repos\VE_CURRENT - Programming Basics\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.genruntimeconfig.cache

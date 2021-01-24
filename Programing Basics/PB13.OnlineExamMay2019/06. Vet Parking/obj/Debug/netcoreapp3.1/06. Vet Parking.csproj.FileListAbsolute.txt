@@ -1,0 +1,13 @@
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.exe
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.deps.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.runtimeconfig.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.runtimeconfig.dev.json
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\bin\Debug\netcoreapp3.1\06. Vet Parking.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.csprojAssemblyReference.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.AssemblyInfoInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.AssemblyInfo.cs
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.csproj.CoreCompileInputs.cache
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.dll
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.pdb
+C:\Users\vlade\source\repos\13. PB Online Retake Exam - 2 and 3 May 2019\06. Vet Parking\obj\Debug\netcoreapp3.1\06. Vet Parking.genruntimeconfig.cache
