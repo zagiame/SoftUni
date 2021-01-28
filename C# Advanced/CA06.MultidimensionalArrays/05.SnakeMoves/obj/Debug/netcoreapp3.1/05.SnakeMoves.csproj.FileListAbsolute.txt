@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.genruntimeconfig.cache
