@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA06.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.genruntimeconfig.cache
