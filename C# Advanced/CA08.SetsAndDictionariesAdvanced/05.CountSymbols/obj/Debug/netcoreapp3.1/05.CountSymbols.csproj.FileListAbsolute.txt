@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.genruntimeconfig.cache

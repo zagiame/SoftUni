@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KiOAABEs7nC0N1ghi1FWRrxVrhcaclWWBjQRQA7IY/6hjiHxSoWNTJLK322iKqugJ9y6BrkX8hsujpcT5Tc/ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA08.SetsAndDictionariesAdvanced\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vlade\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\vlade\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\vlade\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

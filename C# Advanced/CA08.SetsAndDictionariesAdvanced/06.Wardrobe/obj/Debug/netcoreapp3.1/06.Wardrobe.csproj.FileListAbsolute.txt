@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\netcoreapp3.1\06.Wardrobe.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\netcoreapp3.1\06.Wardrobe.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\bin\Debug\netcoreapp3.1\07.TheVLogger.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\bin\Debug\netcoreapp3.1\07.TheVLogger.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\bin\Debug\netcoreapp3.1\07.TheVLogger.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\bin\Debug\netcoreapp3.1\07.TheVLogger.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\bin\Debug\netcoreapp3.1\07.TheVLogger.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\bin\Debug\netcoreapp3.1\07.TheVLogger.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\07.TheVLogger\obj\Debug\netcoreapp3.1\07.TheVLogger.genruntimeconfig.cache

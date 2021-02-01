@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA08.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp3.1\03.PeriodicTable.genruntimeconfig.cache
