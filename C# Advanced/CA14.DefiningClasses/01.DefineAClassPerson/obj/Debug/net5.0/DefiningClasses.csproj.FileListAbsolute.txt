@@ -1,5 +1,0 @@
-C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\01.DefineAClassPerson\obj\Debug\net5.0\DefiningClasses.csprojAssemblyReference.cache
-C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\01.DefineAClassPerson\obj\Debug\net5.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\01.DefineAClassPerson\obj\Debug\net5.0\DefiningClasses.AssemblyInfoInputs.cache
-C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\01.DefineAClassPerson\obj\Debug\net5.0\DefiningClasses.AssemblyInfo.cs
-C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\01.DefineAClassPerson\obj\Debug\net5.0\DefiningClasses.csproj.CoreCompileInputs.cache

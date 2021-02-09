@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\SoftUniParking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache

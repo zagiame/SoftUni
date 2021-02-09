@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA14.DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
