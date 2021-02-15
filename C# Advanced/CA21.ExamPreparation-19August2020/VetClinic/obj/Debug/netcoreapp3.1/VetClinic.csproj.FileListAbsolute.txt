@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-19August2020\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
