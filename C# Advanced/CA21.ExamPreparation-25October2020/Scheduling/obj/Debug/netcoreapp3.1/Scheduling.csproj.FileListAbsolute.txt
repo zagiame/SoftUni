@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache
