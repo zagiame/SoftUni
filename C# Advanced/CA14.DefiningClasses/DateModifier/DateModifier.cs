@@ -10,7 +10,7 @@ namespace DateModifier
 
         // constructor
 
-        // proprety
+        // property
 
         // method
         public static int GetDiffInDays(string dateOneStr, string dateTwoStr)

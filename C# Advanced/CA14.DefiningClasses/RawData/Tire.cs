@@ -10,7 +10,7 @@ namespace RawData
 
         // constructor
 
-        // proprety
+        // property
 
         public double Pressure { get; set; }
 

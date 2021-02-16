@@ -10,7 +10,7 @@ namespace RawData
 
         // constructor
 
-        // proprety
+        // property
         public int Speed { get; set; }
         public int Power { get; set; }
 

@@ -62,7 +62,7 @@ namespace VetClinic
                 data = new List<Pet>();
             }
 
-            // propraty
+            // property
             public int Capacity { get; set; }
             public int Count { get => data.Count(); }
 
@@ -117,7 +117,7 @@ namespace VetClinic
                 Owner = owner;
             }
 
-            // propraty
+            // property
             public string Name { get; set; }
             public int Age { get; set; }
             public string Owner { get; set; }

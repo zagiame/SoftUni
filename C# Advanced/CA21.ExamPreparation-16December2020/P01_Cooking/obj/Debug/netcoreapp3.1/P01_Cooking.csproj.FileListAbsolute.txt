@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\bin\Debug\netcoreapp3.1\P01_Cooking.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\bin\Debug\netcoreapp3.1\P01_Cooking.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\bin\Debug\netcoreapp3.1\P01_Cooking.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\bin\Debug\netcoreapp3.1\P01_Cooking.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\bin\Debug\netcoreapp3.1\P01_Cooking.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\bin\Debug\netcoreapp3.1\P01_Cooking.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P01_Cooking\obj\Debug\netcoreapp3.1\P01_Cooking.genruntimeconfig.cache

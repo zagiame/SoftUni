@@ -18,7 +18,7 @@ namespace RawData
             this.Tires = tires;
         }
 
-        // proprety
+        // property
         public string Model { get; set; }
 
         public Engine Engine { get; set; }

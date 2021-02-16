@@ -14,7 +14,7 @@ namespace SpeedRacing
 
         // constructor
 
-        // proprety
+        // property
         public string Model { get; set; }
 
         public double FuelAmount { get; set; }

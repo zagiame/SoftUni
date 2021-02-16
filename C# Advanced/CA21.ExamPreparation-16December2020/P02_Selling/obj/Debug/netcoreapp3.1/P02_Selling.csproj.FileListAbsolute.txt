@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\bin\Debug\netcoreapp3.1\P02_Selling.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\bin\Debug\netcoreapp3.1\P02_Selling.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\bin\Debug\netcoreapp3.1\P02_Selling.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\bin\Debug\netcoreapp3.1\P02_Selling.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\bin\Debug\netcoreapp3.1\P02_Selling.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\bin\Debug\netcoreapp3.1\P02_Selling.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-16December2020\P02_Selling\obj\Debug\netcoreapp3.1\P02_Selling.genruntimeconfig.cache

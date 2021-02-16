@@ -10,7 +10,7 @@ namespace RawData
 
         // constructor
 
-        // proprety
+        // property
         public string Type { get; set; }
         public int Weight { get; set; }
 
