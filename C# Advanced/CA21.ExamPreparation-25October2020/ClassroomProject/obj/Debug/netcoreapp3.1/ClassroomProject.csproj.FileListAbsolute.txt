@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-25October2020\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache
