@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zOTbUOmT9faV8VnrKBGeUrwkNifWdRER0mprU5lLARIajX/f444qjEwKy73LfdgWlkVuVsI92i3rv0iywmG6Kw==",
+  "dgSpecHash": "U8S9DzKzF4UZi6aVMs/LhecIyyDd4+9PHlJOrgWtq3xiT2gVMt5AYb7DyM/4CwGDzyUgyeKdf9WIM+wq/jiOhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj",
+  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

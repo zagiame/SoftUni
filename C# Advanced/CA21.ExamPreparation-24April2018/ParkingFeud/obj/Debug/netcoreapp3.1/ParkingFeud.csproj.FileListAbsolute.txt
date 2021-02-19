@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\bin\Debug\netcoreapp3.1\ParkingFeud.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\bin\Debug\netcoreapp3.1\ParkingFeud.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\bin\Debug\netcoreapp3.1\ParkingFeud.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\bin\Debug\netcoreapp3.1\ParkingFeud.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\bin\Debug\netcoreapp3.1\ParkingFeud.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\bin\Debug\netcoreapp3.1\ParkingFeud.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\ParkingFeud\obj\Debug\netcoreapp3.1\ParkingFeud.genruntimeconfig.cache

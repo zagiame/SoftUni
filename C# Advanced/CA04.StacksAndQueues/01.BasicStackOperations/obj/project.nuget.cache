@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BZBA4Q9jk3iroNNtEijAG6Fef+teZ6HCPd5qThmrt7PChNTBJE44agKZiTnPf+s7dDz58Vr4BxjhMhpp8f0AgQ==",
+  "dgSpecHash": "bbe20LJKZTMCpDYUWN7HhxJpks2JhZLQD9qE+qILA0XWks1jy4vM8cadJiWLPVsVvPQUpl4IYZBVrklsMgo9Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\01.BasicStackOperations\\01.BasicStackOperations.csproj",
+  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\01.BasicStackOperations\\01.BasicStackOperations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

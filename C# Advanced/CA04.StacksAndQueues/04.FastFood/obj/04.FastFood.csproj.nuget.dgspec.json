@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {}
+    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {
+    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\04.FastFood\\04.FastFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
+        "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
         "projectName": "04.FastFood",
-        "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
+        "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\04.FastFood\\04.FastFood.csproj",
         "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\04.FastFood\\obj\\",
+        "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\04.FastFood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

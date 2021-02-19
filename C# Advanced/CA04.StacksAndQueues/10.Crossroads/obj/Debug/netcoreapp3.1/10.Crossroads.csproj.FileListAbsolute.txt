@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\bin\Debug\netcoreapp3.1\10.Crossroads.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA04.StacksAndQueues\10.Crossroads\obj\Debug\netcoreapp3.1\10.Crossroads.genruntimeconfig.cache

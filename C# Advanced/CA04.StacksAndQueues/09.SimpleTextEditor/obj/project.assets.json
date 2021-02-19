@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\09.SimpleTextEditor\\09.SimpleTextEditor.csproj",
+      "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\09.SimpleTextEditor\\09.SimpleTextEditor.csproj",
       "projectName": "09.SimpleTextEditor",
-      "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\09.SimpleTextEditor\\09.SimpleTextEditor.csproj",
+      "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\09.SimpleTextEditor\\09.SimpleTextEditor.csproj",
       "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\09.SimpleTextEditor\\obj\\",
+      "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\09.SimpleTextEditor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

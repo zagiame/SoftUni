@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SnakeMoves", "05.SnakeMo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.JaggedArrayManipulator", "06.JaggedArrayManipulator\06.JaggedArrayManipulator.csproj", "{6C9BA8DA-E697-4066-A2E9-C4C70575778C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.KnightGame", "07.KnightGame\07.KnightGame.csproj", "{3E3622AB-87BA-4E43-9AC9-73EA0E38BEC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.KnightGame", "07.KnightGame\07.KnightGame.csproj", "{3E3622AB-87BA-4E43-9AC9-73EA0E38BEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Bombs", "08.Bombs\08.Bombs.csproj", "{DE486E6C-6E39-489E-A714-85FA2EB71A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Miner", "09.Miner\09.Miner.csproj", "{BEF92E8B-5B08-4AE3-A62D-1F34D4BD16C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.RadioactiveMutantVampireBunnies", "10.RadioactiveMutantVampireBunnies\10.RadioactiveMutantVampireBunnies.csproj", "{3AB00216-DF58-410D-9266-77A7D7F2A7DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{3E3622AB-87BA-4E43-9AC9-73EA0E38BEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E3622AB-87BA-4E43-9AC9-73EA0E38BEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E3622AB-87BA-4E43-9AC9-73EA0E38BEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE486E6C-6E39-489E-A714-85FA2EB71A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE486E6C-6E39-489E-A714-85FA2EB71A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE486E6C-6E39-489E-A714-85FA2EB71A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE486E6C-6E39-489E-A714-85FA2EB71A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF92E8B-5B08-4AE3-A62D-1F34D4BD16C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF92E8B-5B08-4AE3-A62D-1F34D4BD16C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF92E8B-5B08-4AE3-A62D-1F34D4BD16C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF92E8B-5B08-4AE3-A62D-1F34D4BD16C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB00216-DF58-410D-9266-77A7D7F2A7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB00216-DF58-410D-9266-77A7D7F2A7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB00216-DF58-410D-9266-77A7D7F2A7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB00216-DF58-410D-9266-77A7D7F2A7DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

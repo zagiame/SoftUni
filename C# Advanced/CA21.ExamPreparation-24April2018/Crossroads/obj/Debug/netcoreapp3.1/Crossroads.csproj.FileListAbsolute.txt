@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\bin\Debug\netcoreapp3.1\Crossroads.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA21.ExamPreparation-24April2018\Crossroads\obj\Debug\netcoreapp3.1\Crossroads.genruntimeconfig.cache

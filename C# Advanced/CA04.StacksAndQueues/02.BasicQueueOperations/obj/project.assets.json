@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
+      "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
       "projectName": "02.BasicQueueOperations",
-      "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
+      "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\02.BasicQueueOperations\\02.BasicQueueOperations.csproj",
       "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04-StacksAndQueues\\02.BasicQueueOperations\\obj\\",
+      "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# Advanced\\CA04.StacksAndQueues\\02.BasicQueueOperations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
