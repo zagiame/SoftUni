@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\bin\Debug\netcoreapp3.1\P01.TheFightForGondor.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\bin\Debug\netcoreapp3.1\P01.TheFightForGondor.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\bin\Debug\netcoreapp3.1\P01.TheFightForGondor.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\bin\Debug\netcoreapp3.1\P01.TheFightForGondor.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\bin\Debug\netcoreapp3.1\P01.TheFightForGondor.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\bin\Debug\netcoreapp3.1\P01.TheFightForGondor.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P01.TheFightForGondor\obj\Debug\netcoreapp3.1\P01.TheFightForGondor.genruntimeconfig.cache

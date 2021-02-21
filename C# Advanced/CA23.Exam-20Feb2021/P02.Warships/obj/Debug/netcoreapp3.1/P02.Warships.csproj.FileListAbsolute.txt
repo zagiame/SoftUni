@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\bin\Debug\netcoreapp3.1\P02.Warships.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\P02.Warships\obj\Debug\netcoreapp3.1\P02.Warships.genruntimeconfig.cache

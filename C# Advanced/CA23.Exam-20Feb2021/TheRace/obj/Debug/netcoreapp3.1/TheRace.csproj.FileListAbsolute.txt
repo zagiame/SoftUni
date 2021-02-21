@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# Advanced\CA23.Exam-20Feb2021\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
