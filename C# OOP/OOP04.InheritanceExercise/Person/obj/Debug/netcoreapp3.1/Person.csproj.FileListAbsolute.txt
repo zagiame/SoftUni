@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP04.InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
