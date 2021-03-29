@@ -1,0 +1,13 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP06.EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache
