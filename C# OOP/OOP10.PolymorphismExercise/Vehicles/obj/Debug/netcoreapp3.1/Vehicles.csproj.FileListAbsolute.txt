@@ -1,0 +1,12 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP10.PolymorphismExercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
