@@ -2088,11 +2088,12 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "NoPBj0ykejqAWW4p4gGtrrL+3c84ZLSvGnHgq422ew1Rj4WKj1FA8/BCybqC111EtgcqUl6ZJNFYYS22HLgbjA==",
+      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4602,27 +4603,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mariela\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\vlade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe.Tests\\BankSafe.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP25.Exam-12Dec2020\\BankSafe.Tests\\BankSafe.Tests.csproj",
       "projectName": "BankSafe.Tests",
-      "projectPath": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe.Tests\\BankSafe.Tests.csproj",
-      "packagesPath": "C:\\Users\\Mariela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe.Tests\\obj\\",
+      "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP25.Exam-12Dec2020\\BankSafe.Tests\\BankSafe.Tests.csproj",
+      "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP25.Exam-12Dec2020\\BankSafe.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mariela\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -4633,9 +4627,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe\\BankSafe.csproj": {
-              "projectPath": "C:\\Users\\Mariela\\Desktop\\Unit-Testing-Skeleton\\BankSafe\\BankSafe.csproj"
+            "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP25.Exam-12Dec2020\\BankSafe\\BankSafe.csproj": {
+              "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP25.Exam-12Dec2020\\BankSafe\\BankSafe.csproj"
             }
           }
         }
@@ -4648,6 +4643,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4677,7 +4673,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
