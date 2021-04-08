@@ -1,0 +1,9 @@
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP18.UnitTestingExercise\Database\obj\Debug\netcoreapp3.1\Database.pdb

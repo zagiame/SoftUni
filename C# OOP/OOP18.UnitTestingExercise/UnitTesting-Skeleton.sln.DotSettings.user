@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b42388d3_002Dc1f3_002D4f59_002D99a9_002D45e5d1b7d52d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_IncreaseCount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5795F810-87D3-4FC9-89B3-61985EE6F92B::.NETCoreApp,Version=v3.1::Tests.DatabaseTests.Add_IncreaseCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::Tests.CarTests.Drive_IsCorrect&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E1FB916D-50FB-496B-83F9-BDF2F37EA267::.NETCoreApp,Version=v3.1::Tests.CarTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B06408E4-1E32-4981-AA8F-C32DF68D2B0E::.NETCoreApp,Version=v3.1::Tests.WarriorTests.Attack_ThrowException_WhenDefenderKillsAttacker&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
