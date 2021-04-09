@@ -6,6 +6,8 @@ namespace EasterRaces.Models.Cars.Entities
 {
     public abstract class Car : ICar
     {
+        private const int minSymbol = 4;
+
         private string model;
         private int horsePower;
         private int minHorsePower;
@@ -27,9 +29,10 @@ namespace EasterRaces.Models.Cars.Entities
 
             private set
             {
-                if (string.IsNullOrWhiteSpace(value) || value.Length < 4)
+                if (string.IsNullOrWhiteSpace(value) || value.Length < minSymbol)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidModel);
+                    throw new ArgumentException
+                        (string.Format(ExceptionMessages.InvalidModel, value, minSymbol));
                 }
 
                 else
@@ -48,7 +51,8 @@ namespace EasterRaces.Models.Cars.Entities
             {
                 if (value < minHorsePower || value > maxHorsePower)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidHorsePower);
+                    throw new ArgumentException
+                        (string.Format(ExceptionMessages.InvalidHorsePower, value));
                 }
 
                 else
