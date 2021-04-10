@@ -7,12 +7,7 @@
         public FreshwaterFish(string name, string species, decimal price)
             : base(name, species, price)
         {
-
-        }
-
-        public int FreshwaterFishSize
-        {
-            set => this.Size = freshwaterFishSize;
+            this.Size = freshwaterFishSize;
         }
 
         public override void Eat()

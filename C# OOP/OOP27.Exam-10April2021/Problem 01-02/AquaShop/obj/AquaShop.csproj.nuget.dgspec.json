@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlade\\Downloads\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj": {}
+    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 01-02\\AquaShop\\AquaShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlade\\Downloads\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj": {
+    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 01-02\\AquaShop\\AquaShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlade\\Downloads\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+        "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 01-02\\AquaShop\\AquaShop.csproj",
         "projectName": "AquaShop",
-        "projectPath": "C:\\Users\\vlade\\Downloads\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+        "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 01-02\\AquaShop\\AquaShop.csproj",
         "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlade\\Downloads\\01. Structure_Skeleton\\AquaShop\\obj\\",
+        "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 01-02\\AquaShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",

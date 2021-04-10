@@ -11,3 +11,16 @@ C:\Users\vlade\Downloads\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0
 C:\Users\vlade\Downloads\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
 C:\Users\vlade\Downloads\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
 C:\Users\vlade\Downloads\01. Structure_Skeleton\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\vlade\Documents\GitHub\SoftUni\C# OOP\OOP27.Exam-10April2021\Problem 01-02\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

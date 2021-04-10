@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2dCjNJd8QtjXDLjNj/397Og/QcjVdDjJYLnrpYYc9Gd6POAis9Ym187HIpiqjuKG8Fi2A9s3oKNvuBYf+ENJQ==",
+  "dgSpecHash": "mCH7t3p0c3GFHlsMIOh8HrfRQNoHI4/v3+/636YOJmlA6AzvozTZFc9cCZd2L/GNURgrybw6QdfnH/masLwJAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vlade\\Downloads\\03. Unit Tests_Skeleton\\Aquariums.Tests\\Aquariums.Tests.csproj",
+  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 03\\Aquariums.Tests\\Aquariums.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vlade\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\vlade\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

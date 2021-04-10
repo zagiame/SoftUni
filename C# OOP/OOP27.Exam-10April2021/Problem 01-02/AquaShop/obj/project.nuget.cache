@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzGFJWg7OH0EIxx6k7fpITjc8cPbWCOaRASwQDa9QoHkYwqx507OEtS7olnwUO8iXxFhu5kkpGKIdFNnnTDiOQ==",
+  "dgSpecHash": "XEnlvNO6qP2cVJ+UyNbgJdosi/GuLV9gbznR87ugUnmcnKtF+/0yFHJ8SIGqOYpK6Z9gBD8YDJPi6qIFd3Vj4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vlade\\Downloads\\01. Structure_Skeleton\\AquaShop\\AquaShop.csproj",
+  "projectFilePath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 01-02\\AquaShop\\AquaShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vlade\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\vlade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

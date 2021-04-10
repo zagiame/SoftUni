@@ -86,16 +86,16 @@ namespace AquaShop.Models.Aquariums
         public string GetInfo()
         {
             var text = new StringBuilder();
-            text.AppendLine($"{Name} ({GetType().Name}):");
+            text.AppendLine($"{Name} ({this.GetType().Name}):");
 
             if (fishByName.Count == 0)
             {
-                text.AppendLine("none");
+                text.AppendLine("Fish: none");
             }
 
             else
             {
-                text.AppendLine(string.Join(", ", fishByName.Values));
+                text.AppendLine($"Fish: {string.Join(", ", fishByName.Keys)}");
             }
 
             text.AppendLine($"Decorations: {decorationList.Count}");

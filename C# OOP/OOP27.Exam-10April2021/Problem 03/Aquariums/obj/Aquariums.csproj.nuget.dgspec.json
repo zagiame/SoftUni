@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlade\\Downloads\\03. Unit Tests_Skeleton\\Aquariums\\Aquariums.csproj": {}
+    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 03\\Aquariums\\Aquariums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlade\\Downloads\\03. Unit Tests_Skeleton\\Aquariums\\Aquariums.csproj": {
+    "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 03\\Aquariums\\Aquariums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlade\\Downloads\\03. Unit Tests_Skeleton\\Aquariums\\Aquariums.csproj",
+        "projectUniqueName": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 03\\Aquariums\\Aquariums.csproj",
         "projectName": "Aquariums",
-        "projectPath": "C:\\Users\\vlade\\Downloads\\03. Unit Tests_Skeleton\\Aquariums\\Aquariums.csproj",
+        "projectPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 03\\Aquariums\\Aquariums.csproj",
         "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlade\\Downloads\\03. Unit Tests_Skeleton\\Aquariums\\obj\\",
+        "outputPath": "C:\\Users\\vlade\\Documents\\GitHub\\SoftUni\\C# OOP\\OOP27.Exam-10April2021\\Problem 03\\Aquariums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",

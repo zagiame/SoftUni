@@ -8,12 +8,14 @@ namespace Aquariums.Tests
 
     public class AquariumsTests
     {
-        private Aquarium data;
+        private Aquarium aquarium;
+        private Fish fish;
 
         [SetUp]
         public void Setup()
         {
-
+            aquarium = new Aquarium("Pz", 100);
+            fish = new Fish("Boko");
         }
 
         [Test]
@@ -45,16 +47,15 @@ namespace Aquariums.Tests
             string name = "name";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
-            Assert.That(data.Name == name);
-            Assert.That(data.Capacity == capacity);
+            aquarium = new Aquarium(name, capacity);
+            Assert.That(aquarium.Name == name);
+            Assert.That(aquarium.Capacity == capacity);
         }
 
         [Test]
         public void Ctor_AquariumIsNotEmpty()
         {
-            var fishList = new List<Fish>();
-            Assert.That(fishList, Is.Not.Null);
+            Assert.That(aquarium.Count, Is.Not.Null);
         }
 
         [Test]
@@ -64,8 +65,8 @@ namespace Aquariums.Tests
             string fishName = "fish";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
-            Assert.That(data.Count == 0);
+            aquarium = new Aquarium(name, capacity);
+            Assert.That(aquarium.Count == 0);
         }
 
         [Test]
@@ -75,14 +76,14 @@ namespace Aquariums.Tests
             string fishName = "fish";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
+            aquarium = new Aquarium(name, capacity);
 
             for (int i = 0; i < capacity; i++)
             {
-                data.Add(new Fish(fishName + i));
+                aquarium.Add(new Fish(fishName + i));
             }
 
-            Assert.That(data.Count == capacity);
+            Assert.That(aquarium.Count == capacity);
         }
 
         [Test]
@@ -92,14 +93,14 @@ namespace Aquariums.Tests
             string fishName = "fish";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
+            aquarium = new Aquarium(name, capacity);
 
             for (int i = 0; i < capacity; i++)
             {
-                data.Add(new Fish(fishName + i));
+                aquarium.Add(new Fish(fishName + i));
             }
 
-            Assert.Throws<InvalidOperationException>(() => data.Add(new Fish(fishName)));
+            Assert.Throws<InvalidOperationException>(() => aquarium.Add(new Fish(fishName)));
         }
 
         [Test]
@@ -111,14 +112,14 @@ namespace Aquariums.Tests
             string fishName = "fish";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
+            aquarium = new Aquarium(name, capacity);
 
             for (int i = 0; i < n; i++)
             {
-                data.Add(new Fish(fishName + i));
+                aquarium.Add(new Fish(fishName + i));
             }
 
-            Assert.That(data.Count == n);
+            Assert.That(aquarium.Count == n);
         }
 
         [Test]
@@ -128,8 +129,8 @@ namespace Aquariums.Tests
             string fishName = null;
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
-            Assert.Throws<InvalidOperationException>(() => data.RemoveFish(fishName));
+            aquarium = new Aquarium(name, capacity);
+            Assert.Throws<InvalidOperationException>(() => aquarium.RemoveFish(fishName));
         }
 
         [Test]
@@ -141,17 +142,17 @@ namespace Aquariums.Tests
             string fishName = "fish";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
+            aquarium = new Aquarium(name, capacity);
 
             for (int i = 0; i < n; i++)
             {
-                data.Add(new Fish(fishName + i));
+                aquarium.Add(new Fish(fishName + i));
             }
 
-            data.Add(new Fish(fishName));
-            data.RemoveFish(fishName);
+            aquarium.Add(new Fish(fishName));
+            aquarium.RemoveFish(fishName);
 
-            Assert.That(data.Count == n);
+            Assert.That(aquarium.Count == n);
         }
 
         [Test]
@@ -161,8 +162,8 @@ namespace Aquariums.Tests
             string fishName = null;
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
-            Assert.Throws<InvalidOperationException>(() => data.SellFish(fishName));
+            aquarium = new Aquarium(name, capacity);
+            Assert.Throws<InvalidOperationException>(() => aquarium.SellFish(fishName));
         }
 
         [Test]
@@ -173,9 +174,9 @@ namespace Aquariums.Tests
             int capacity = 10;
 
             var fish = new Fish(fishName);
-            data = new Aquarium(name, capacity);
-            data.Add(fish);
-            data.SellFish(fishName);
+            aquarium = new Aquarium(name, capacity);
+            aquarium.Add(fish);
+            aquarium.SellFish(fishName);
 
             Assert.That(fish.Available == false);
         }
@@ -187,19 +188,19 @@ namespace Aquariums.Tests
             string fishName = "fish";
             int capacity = 10;
 
-            data = new Aquarium(name, capacity);
+            aquarium = new Aquarium(name, capacity);
             var fishList = new List<Fish>();
 
             for (int i = 0; i < capacity; i++)
             {
-                data.Add(new Fish(fishName + i));
+                aquarium.Add(new Fish(fishName + i));
                 fishList.Add(new Fish(fishName + i));
             }
 
             string fishNames = string.Join(", ", fishList.Select(f => f.Name));
             string report = $"Fish available at {name}: {fishNames}";
 
-            Assert.That(data.Report() == report);
+            Assert.That(aquarium.Report() == report);
         }
     }
 }

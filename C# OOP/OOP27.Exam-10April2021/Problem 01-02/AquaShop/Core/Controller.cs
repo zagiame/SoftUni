@@ -17,7 +17,7 @@ namespace AquaShop.Core
 {
     public class Controller : IController
     {
-        private readonly IRepository<IDecoration> decorantionRepository;
+        private DecorationRepository decorantionRepository;
         private Dictionary<string, IAquarium> aquariumByName;
 
         public Controller()
@@ -30,19 +30,19 @@ namespace AquaShop.Core
         {
             IAquarium aquarium = null;
 
-            if (aquariumType != nameof(FreshwaterAquarium) && aquariumType != nameof(SaltwaterAquarium))
-            {
-                throw new InvalidOperationException(ExceptionMessages.InvalidAquariumType);
-            }
-
             if (aquariumType == nameof(FreshwaterAquarium))
             {
                 aquarium = new FreshwaterAquarium(aquariumName);
             }
 
-            else if (aquariumType != nameof(SaltwaterAquarium))
+            else if (aquariumType == nameof(SaltwaterAquarium))
             {
                 aquarium = new SaltwaterAquarium(aquariumName);
+            }
+
+            else
+            {
+                throw new InvalidOperationException(ExceptionMessages.InvalidAquariumType);
             }
 
             aquariumByName.Add(aquariumName, aquarium);
@@ -53,19 +53,19 @@ namespace AquaShop.Core
         {
             IDecoration decoration = null;
 
-            if (decorationType != nameof(Ornament) && decorationType != nameof(Plant))
-            {
-                throw new InvalidOperationException(ExceptionMessages.InvalidDecorationType);
-            }
-
             if (decorationType == nameof(Ornament))
             {
                 decoration = new Ornament();
             }
 
-            else if (decorationType != nameof(Plant))
+            else if (decorationType == nameof(Plant))
             {
                 decoration = new Plant();
+            }
+
+            else
+            {
+                throw new InvalidOperationException(ExceptionMessages.InvalidDecorationType);
             }
 
             decorantionRepository.Add(decoration);
@@ -92,19 +92,19 @@ namespace AquaShop.Core
         {
             IFish fish = null;
 
-            if (fishType != nameof(FreshwaterFish) && fishType != nameof(SaltwaterFish))
-            {
-                throw new InvalidOperationException(ExceptionMessages.InvalidFishType);
-            }
-
             if (fishType == nameof(FreshwaterFish))
             {
                 fish = new FreshwaterFish(fishName, fishSpecies, price);
             }
 
-            else if (fishType != nameof(SaltwaterAquarium))
+            else if (fishType == nameof(SaltwaterFish))
             {
                 fish = new SaltwaterFish(fishName, fishSpecies, price);
+            }
+
+            else
+            {
+                throw new InvalidOperationException(ExceptionMessages.InvalidFishType);
             }
 
             var aquariumType = aquariumByName[aquariumName].GetType().Name;
